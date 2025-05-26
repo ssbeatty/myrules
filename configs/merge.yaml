@@ -104,3 +104,10 @@ rule-providers:
     url: "https://raw.githubusercontent.com/ssbeatty/myrules/refs/heads/release/rules/direct.txt"
     path: ./ruleset/ssbeatty-direct.yaml
     interval: 86400
+
+  myblack:
+    type: http
+    behavior: domain
+    url: "https://raw.githubusercontent.com/ssbeatty/myrules/refs/heads/release/rules/black.txt"
+    path: ./ruleset/ssbeatty-black.yaml
+    interval: 86400
