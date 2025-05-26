@@ -101,6 +101,6 @@ rule-providers:
   mydirect:
     type: http
     behavior: domain
-    url: "raw.githubusercontent.com/ssbeatty/myrules@release/rules/direct.txt"
+    url: "https://raw.githubusercontent.com/ssbeatty/myrules/refs/heads/release/rules/direct.txt"
     path: ./ruleset/ssbeatty-direct.yaml
     interval: 86400
