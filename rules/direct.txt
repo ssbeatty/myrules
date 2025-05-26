@@ -1,0 +1,3 @@
+payload:
+  - '+.weiheng-tech.com'
+  - '+.whes.com'
