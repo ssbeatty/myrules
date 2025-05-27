@@ -1,3 +1,4 @@
 payload:
   - 'hub.125811.xyz'
   - '+.gitbook.io'
+  - '+.msys2.org'
