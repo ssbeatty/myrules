@@ -3,3 +3,4 @@ payload:
   - '+.gitbook.io'
   - '+.msys2.org'
   - '+.bewildcard.com'
+  - 'www.sasaba.net'
