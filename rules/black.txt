@@ -4,3 +4,4 @@ payload:
   - '+.msys2.org'
   - '+.bewildcard.com'
   - 'www.sasaba.net'
+  - '+.wwkejishe.top'
