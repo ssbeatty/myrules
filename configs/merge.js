@@ -2,6 +2,7 @@
 const newFirstRules = [
     "RULE-SET,myblack,Proxies",
     "RULE-SET,mydirect,DIRECT",
+    "RULE-SET,myai,AI",
     "RULE-SET,applications,DIRECT",
 ];
 
