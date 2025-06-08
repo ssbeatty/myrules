@@ -5,3 +5,4 @@ payload:
   - '+.bewildcard.com'
   - 'www.sasaba.net'
   - '+.wwkejishe.top'
+  - '+.v1.mk'
