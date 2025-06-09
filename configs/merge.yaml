@@ -122,6 +122,6 @@ rule-providers:
   myblack-classical:
     type: http
     behavior: classical
-    url: "https://raw.githubusercontent.com/ssbeatty/myrules/refs/heads/release/rules/ai.txt"
+    url: "https://raw.githubusercontent.com/ssbeatty/myrules/refs/heads/release/rules/classical/black.txt"
     path: ./ruleset/ssbeatty-myblack-classical.yaml
     interval: 86400
