@@ -98,23 +98,30 @@ rule-providers:
     path: ./ruleset/applications.yaml
     interval: 86400
 
-  mydirect:
+  mydirect-domain:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/ssbeatty/myrules/refs/heads/release/rules/direct.txt"
-    path: ./ruleset/ssbeatty-direct.yaml
+    url: "https://raw.githubusercontent.com/ssbeatty/myrules/refs/heads/release/rules/domain/direct.txt"
+    path: ./ruleset/ssbeatty-mydirect-domain.yaml
     interval: 86400
 
-  myblack:
+  myblack-domain:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/ssbeatty/myrules/refs/heads/release/rules/black.txt"
-    path: ./ruleset/ssbeatty-black.yaml
+    url: "https://raw.githubusercontent.com/ssbeatty/myrules/refs/heads/release/rules/domain/black.txt"
+    path: ./ruleset/ssbeatty-myblack-domain.yaml
     interval: 86400
-  
-  myai:
+
+  myai-domain:
     type: http
     behavior: domain
+    url: "https://raw.githubusercontent.com/ssbeatty/myrules/refs/heads/release/rules/domain/ai.txt"
+    path: ./ruleset/ssbeatty-myai-domain.yaml
+    interval: 86400
+
+  myblack-classical:
+    type: http
+    behavior: classical
     url: "https://raw.githubusercontent.com/ssbeatty/myrules/refs/heads/release/rules/ai.txt"
-    path: ./ruleset/ssbeatty-ai.yaml
+    path: ./ruleset/ssbeatty-myblack-classical.yaml
     interval: 86400
