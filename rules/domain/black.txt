@@ -6,3 +6,4 @@ payload:
   - 'www.sasaba.net'
   - '+.wwkejishe.top'
   - '+.v1.mk'
+  - '+.gitea.com'
