@@ -1,2 +1,3 @@
 payload:
+- RULE-SET,custom-claude,Claude
 - IP-CIDR,104.164.35.163/32
