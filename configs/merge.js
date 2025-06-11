@@ -1,5 +1,6 @@
 // 高优先级
 const newFirstRules = [
+    "RULE-SET,custom-claude,Claude",
     "RULE-SET,myblack-classical,Proxies",
     "RULE-SET,myblack-domain,Proxies",
     "RULE-SET,mydirect-domain,DIRECT",
