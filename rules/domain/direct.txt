@@ -2,3 +2,4 @@ payload:
   - '+.weiheng-tech.com'
   - '+.whes.com'
   - '+.sasaba.net'
+  - 'fuclaude.125811.xyz'
