@@ -125,10 +125,3 @@ rule-providers:
     url: "https://raw.githubusercontent.com/ssbeatty/myrules/refs/heads/release/rules/classical/black.txt"
     path: ./ruleset/ssbeatty-myblack-classical.yaml
     interval: 86400
-
-  custom-claude:
-    type: http
-    behavior: classical
-    url: "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Claude/Claude.yaml"
-    path: ./ruleset/claude.yaml
-    interval: 3600
