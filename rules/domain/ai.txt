@@ -1,2 +1,4 @@
 payload:
   - '+.niuniucard.com'
+  - 'labs.google'
+  - '+.labs.google'
