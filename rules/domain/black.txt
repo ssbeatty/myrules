@@ -7,3 +7,4 @@ payload:
   - '+.wwkejishe.top'
   - '+.v1.mk'
   - '+.gitea.com'
+  - '+.wox.one'
