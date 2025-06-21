@@ -98,6 +98,13 @@ rule-providers:
     path: ./ruleset/applications.yaml
     interval: 86400
 
+  ai-suite:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/dler-io/Rules/refs/heads/main/Clash/Provider/AI%20Suite.yaml"
+    path: ./ruleset/aisuite.yaml
+    interval: 86400
+
   mydirect-domain:
     type: http
     behavior: domain

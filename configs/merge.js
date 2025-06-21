@@ -1,6 +1,13 @@
 // 高优先级
 const newFirstRules = [
     "RULE-SET,custom-claude,Claude",
+    "DOMAIN-SUFFIX,servd-anthropic-website.b-cdn.net,Claude",
+    "DOMAIN-SUFFIX,anthropic.com,Claude",
+    "DOMAIN-SUFFIX,claude.ai,Claude",
+    "DOMAIN-SUFFIX,claudeusercontent.com,Claude",
+    "DOMAIN-SUFFIX,intercomcdn.com,Claude",
+    "DOMAIN-SUFFIX,cdn.usefathom.com,Claude",
+    "RULE-SET,ai-suite,AI",
     "RULE-SET,myblack-classical,Proxies",
     "RULE-SET,myblack-domain,Proxies",
     "RULE-SET,mydirect-domain,DIRECT",
@@ -35,6 +42,7 @@ function main(config) {
     config.rules = newFirstRules.concat(temp);
 
     config["dns"]["nameserver"].unshift("system");
+    // config["dns"]["nameserver"].push("192.168.130.20");
 
     // 返回修改后的配置
     return config;
