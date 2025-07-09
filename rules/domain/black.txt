@@ -1,5 +1,6 @@
 payload:
   - 'hub.125811.xyz'
+  - '+.guoxi.wang'
   - '+.gitbook.io'
   - '+.msys2.org'
   - '+.bewildcard.com'
