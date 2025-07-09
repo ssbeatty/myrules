@@ -8,3 +8,4 @@ payload:
   - '+.v1.mk'
   - '+.gitea.com'
   - '+.wox.one'
+  - '+.musl.cc'
