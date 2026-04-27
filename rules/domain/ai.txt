@@ -11,6 +11,7 @@ payload:
   - 'openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net'
   - 'openaicomproductionae4b.blob.core.windows.net'
   - 'production-openaicom-storage.azureedge.net'
+  - 'o33249.ingest.sentry.io'
   - 'sora-cdn.oaistatic.com'
 
   # Anthropic / Claude
@@ -38,6 +39,8 @@ payload:
   - '+.notebooklm.google.com'
   - '+.proactivebackend-pa.googleapis.com'
   - '+.robinfrontend-pa.googleapis.com'
+  - '+.aisandbox-pa.googleapis.com'
+  - '+.apis.google.com'
   - 'ai.google.dev'
   - 'alkalicore-pa.clients6.google.com'
   - 'alkalimakersuite-pa.clients6.google.com'
@@ -65,17 +68,22 @@ payload:
   # Coding assistants
   - '+.augment.com'
   - '+.augmentcode.com'
+  - '+.chorus.sh'
   - '+.cursor.com'
   - '+.cursor.sh'
   - '+.codeium.com'
   - '+.codeiumdata.com'
+  - '+.diabrowser.engineering'
+  - '+.dify.ai'
   - '+.githubcopilot.com'
+  - '+.microsoftonline.com'
   - '+.replit.com'
   - '+.trae.ai'
   - '+.traeapi.us'
   - '+.v0.dev'
   - '+.windsurf.com'
   - '+.zed.dev'
+  - 'api.github.com'
   - 'copilot.microsoft.com'
 
   # Model/API platforms
@@ -83,6 +91,9 @@ payload:
   - '+.cohere.com'
   - '+.fireworks.ai'
   - '+.huggingface.co'
+  - '+.jetbrains.ai'
+  - '+.meta.ai'
+  - '+.meta.com'
   - '+.mistral.ai'
   - '+.replicate.com'
   - '+.together.ai'
@@ -98,3 +109,12 @@ payload:
   - '+.openart.ai'
   - '+.runwayml.com'
   - '+.stability.ai'
+
+  # Siri
+  - '+.apple-relay.apple.com'
+  - '+.apple-relay.fastly-edge.com'
+  - '+.apple-relay.cloudflare.com'
+  - '+.guzzoni.apple.com'
+  - '+.cp4.cloudflare.com'
+  - '+.gspe1-ssl.ls.apple.com'
+  - '+.smoot.apple.com'
