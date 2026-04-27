@@ -52,6 +52,7 @@ payload:
 
   # Z.ai / Zhipu / BigModel
   - '+.z.ai'
+  - 'z.ai'
 
   # DeepSeek
   - '+.deepseek.com'
