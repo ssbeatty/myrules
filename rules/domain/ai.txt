@@ -1,4 +1,100 @@
 payload:
-  - '+.niuniucard.com'
-  - 'labs.google'
+  # OpenAI / ChatGPT / Sora
+  - '+.ai.com'
+  - '+.chatgpt.com'
+  - '+.openai.com'
+  - '+.oaistatic.com'
+  - '+.oaiusercontent.com'
+  - '+.sora.com'
+  - 'chat.openai.com.cdn.cloudflare.net'
+  - 'openaiapi-site.azureedge.net'
+  - 'openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net'
+  - 'openaicomproductionae4b.blob.core.windows.net'
+  - 'production-openaicom-storage.azureedge.net'
+  - 'sora-cdn.oaistatic.com'
+
+  # Anthropic / Claude
+  - '+.anthropic.com'
+  - '+.claude.ai'
+  - '+.claude.com'
+  - '+.clau.de'
+  - '+.claudeusercontent.com'
+  - 'cdn.usefathom.com'
+  - 'servd-anthropic-website.b-cdn.net'
+
+  # Google AI / Gemini / AI Studio / NotebookLM
+  - '+.aistudio.google.com'
+  - '+.bard.google.com'
+  - '+.deepmind.com'
+  - '+.deepmind.google'
+  - '+.gemini.google'
+  - '+.gemini.google.com'
+  - '+.generativeai.google'
+  - '+.generativelanguage.googleapis.com'
+  - '+.geller-pa.googleapis.com'
   - '+.labs.google'
+  - '+.makersuite.google.com'
+  - '+.notebooklm.google'
+  - '+.notebooklm.google.com'
+  - '+.proactivebackend-pa.googleapis.com'
+  - '+.robinfrontend-pa.googleapis.com'
+  - 'ai.google.dev'
+  - 'alkalicore-pa.clients6.google.com'
+  - 'alkalimakersuite-pa.clients6.google.com'
+  - 'waa-pa.clients6.google.com'
+
+  # xAI / Grok
+  - '+.grok.com'
+  - '+.x.ai'
+
+  # Z.ai / Zhipu / BigModel
+  - '+.z.ai'
+  - '+.bigmodel.cn'
+  - '+.zhipuai.cn'
+
+  # DeepSeek
+  - '+.deepseek.com'
+  - '+.deepseek.ai'
+
+  # Perplexity / Poe / OpenRouter / Groq
+  - '+.perplexity.ai'
+  - '+.poe.com'
+  - '+.openrouter.ai'
+  - '+.groq.com'
+
+  # Coding assistants
+  - '+.augment.com'
+  - '+.augmentcode.com'
+  - '+.cursor.com'
+  - '+.cursor.sh'
+  - '+.codeium.com'
+  - '+.codeiumdata.com'
+  - '+.githubcopilot.com'
+  - '+.replit.com'
+  - '+.trae.ai'
+  - '+.traeapi.us'
+  - '+.v0.dev'
+  - '+.windsurf.com'
+  - '+.zed.dev'
+  - 'copilot.microsoft.com'
+
+  # Model/API platforms
+  - '+.cerebras.ai'
+  - '+.cohere.com'
+  - '+.fireworks.ai'
+  - '+.huggingface.co'
+  - '+.mistral.ai'
+  - '+.replicate.com'
+  - '+.together.ai'
+  - 'gateway.ai.cloudflare.com'
+
+  # Image / audio / creative AI
+  - '+.clipdrop.co'
+  - '+.elevenlabs.io'
+  - '+.ideogram.ai'
+  - '+.jasper.ai'
+  - '+.leonardo.ai'
+  - '+.midjourney.com'
+  - '+.openart.ai'
+  - '+.runwayml.com'
+  - '+.stability.ai'
